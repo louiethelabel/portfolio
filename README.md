@@ -10,6 +10,7 @@
       <h1>Luwam Gebrehlasse</h1>
       <p>Software Developer</p>
       <p>Located in Atlanta, Ga</p>
+      <img src="thinkful github ex..png" alt="img example of woman developer">
     </header>
     <main>
       <section>
