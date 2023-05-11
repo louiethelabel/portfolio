@@ -1,3 +1,4 @@
+/* Styles for the body */
 body {
   font-family: Arial, sans-serif;
   font-size: 16px;
@@ -5,6 +6,7 @@ body {
   background-color: #f8f8f8;
 }
 
+/* Styles for the header section */
 header {
   background-color: #0074d9;
   color: #fff;
@@ -21,14 +23,14 @@ header p {
   font-size: 18px;
 }
 
+/* Styles for the main content area */
 main {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
-  height: 100%;
-  text-align: center;
 }
 
+/* Styles for individual sections */
 section {
   margin-bottom: 40px;
 }
@@ -38,6 +40,7 @@ h2 {
   margin-bottom: 10px;
 }
 
+/* Styles for unordered lists */
 ul {
   list-style: none;
   padding: 0;
@@ -47,6 +50,7 @@ li {
   margin-bottom: 5px;
 }
 
+/* Styles for links */
 a {
   color: #0074d9;
 }
