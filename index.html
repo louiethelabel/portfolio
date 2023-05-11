@@ -4,6 +4,7 @@
     <!-- Document metadata -->
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
+    <title> Luwam from Thinkful! </title>
   </head>
   <body>
     <header>
@@ -38,6 +39,15 @@
         </ol>
         <hr>
       </section>
+      <article>
+        <!-- Article section -->
+        <h3>THANK YOU FOR YOUR TIME!</h3>
+        <p>If you are looking for a new Developer please reach out!</p>
+      </article>
     </main>
+    <footer>
+      <!-- Footer section -->
+      <p>&copy; 2023 Luwam Gebrehlasse. All rights reserved.</p>
+    </footer>
   </body>
 </html>
