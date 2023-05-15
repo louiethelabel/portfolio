@@ -4,7 +4,7 @@
     <!-- Document metadata -->
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
-    <title> Luwam from Thinkful! </title>
+   <!-- <title> Luwam from Thinkful! </title> -->
   </head>
   <body>
     <header>
